@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Latif 👋</h1>
-<h3 align="center">💻 Web Developer | 🎨 UI Designer</h3>
+<h1 align="center">Hi, I'm Latif </h1>
+<h3 align="center"> Web Developer | UI Designer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+to+build+cool+things+💻;Let's+collaborate+and+learn+together!&center=true&width=500" />
@@ -11,13 +11,13 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-- 🌱 Currently learning: **Next.js**, **React**, **Laravel 11**
-- 💬 Ask me about: `Web Development` and `UI Design`.
-- 👯 Open to collaborate on: Open-source projects, ethical AI, and scalable web platforms.
-- 📫 Reach me at: `latifardiansyah982@gmail.com`
-- ⚡ Fun fact: I can redesign your website in 2 hours and make it twice as effective! 😎
+- Currently learning: **Next.js**, **React**, **Laravel 11**
+- Ask me about: `Web Development` and `UI Design`.
+- Open to collaborate on: Open-source projects, ethical AI, and scalable web platforms.
+- Reach me at: `latifardiansyah982@gmail.com`
+- Fun fact: I can redesign your website in 2 hours and make it twice as effective! 
 
 ---
 
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tippoart&show_icons=true&theme=tokyonight&count_private=true" height="170" />
@@ -42,7 +42,7 @@
 
 ---
 
-### 🔥 GitHub Streak & Activity
+### GitHub Streak & Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com?user=tippoart&theme=tokyonight&hide_border=true" />
@@ -54,7 +54,7 @@
 
 ---
 
-### 📷 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://www.tiktok.com/@tipposyah" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
