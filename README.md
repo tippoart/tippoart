@@ -13,8 +13,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently building: `TikTok Comment Analyzer`, `FixBan.com`.
-- 🌱 Currently learning: **Kotlin**, **React**, **Laravel 11**
+- 🌱 Currently learning: **Next.js**, **React**, **Laravel 11**
 - 💬 Ask me about: `Web Development` and `UI Design`.
 - 👯 Open to collaborate on: Open-source projects, ethical AI, and scalable web platforms.
 - 📫 Reach me at: `latifardiansyah982@gmail.com`
